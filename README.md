@@ -1,3 +1,4 @@
+
 # 🥗 Nutri Track – Smart Meal Planner App (Flutter)
 
 **Nutri Track** is a powerful and elegant Flutter application designed to simplify healthy eating. It helps users discover delicious recipes, plan their weekly meals with AI-like smart filtering, and provides an immersive cooking experience with step-by-step guidance.
