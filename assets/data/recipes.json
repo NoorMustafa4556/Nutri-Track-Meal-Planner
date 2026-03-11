@@ -1,0 +1,922 @@
+[
+  {
+    "id": "1",
+    "name": "Grilled Chicken Salad",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "time": "20 min",
+    "calories": 350,
+    "protein": 40,
+    "carbs": 12,
+    "fats": 15,
+    "rating": 4.8,
+    "dietType": "High-Protein",
+    "ingredients": [
+      "Chicken Breast",
+      "Lettuce",
+      "Olive Oil",
+      "Cucumber"
+    ],
+    "steps": [
+      "Grill the chicken.",
+      "Chop veggies.",
+      "Mix everything."
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Avocado Toast",
+    "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?auto=format&fit=crop&w=600&q=80",
+    "time": "10 min",
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fats": 18,
+    "rating": 4.5,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Bread",
+      "Avocado",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Toast bread.",
+      "Mash avocado.",
+      "Spread and season."
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Keto Steak",
+    "image": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=600&q=80",
+    "time": "30 min",
+    "calories": 600,
+    "protein": 50,
+    "carbs": 2,
+    "fats": 45,
+    "rating": 4.9,
+    "dietType": "Keto",
+    "ingredients": [
+      "Steak",
+      "Butter",
+      "Garlic",
+      "Rosemary"
+    ],
+    "steps": [
+      "Sear steak in butter.",
+      "Add garlic and herbs.",
+      "Cook to preference."
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Vegan Buddha Bowl",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80",
+    "time": "25 min",
+    "calories": 400,
+    "protein": 15,
+    "carbs": 55,
+    "fats": 12,
+    "rating": 4.7,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Quinoa",
+      "Chickpeas",
+      "Spinach",
+      "Tahini"
+    ],
+    "steps": [
+      "Cook quinoa.",
+      "Roast chickpeas.",
+      "Assemble bowl with dressing."
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Pasta Primavera",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=600&q=80",
+    "time": "20 min",
+    "calories": 450,
+    "protein": 12,
+    "carbs": 70,
+    "fats": 10,
+    "rating": 4.6,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Pasta",
+      "Mixed Vegetables",
+      "Olive Oil",
+      "Parmesan"
+    ],
+    "steps": [
+      "Boil pasta.",
+      "Sauté vegetables.",
+      "Toss together."
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Salmon with Asparagus",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=600&q=80",
+    "time": "25 min",
+    "calories": 500,
+    "protein": 45,
+    "carbs": 5,
+    "fats": 30,
+    "rating": 4.8,
+    "dietType": "Low-Carb",
+    "ingredients": [
+      "Salmon Fillet",
+      "Asparagus",
+      "Lemon",
+      "Olive Oil"
+    ],
+    "steps": [
+      "Season salmon and asparagus.",
+      "Bake at 400°F for 20 mins."
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Scrambled Eggs on Toast",
+    "image": "https://images.unsplash.com/photo-1528750717929-32abb73d3bd9?auto=format&fit=crop&w=600&q=80",
+    "time": "15 min",
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fats": 16,
+    "rating": 4.5,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Eggs",
+      "Bread",
+      "Butter",
+      "Chives"
+    ],
+    "steps": [
+      "Whisk eggs.",
+      "Cook in butter.",
+      "Serve on toast."
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Chicken Curry",
+    "image": "https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&w=600&q=80",
+    "time": "40 min",
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fats": 25,
+    "rating": 4.7,
+    "dietType": "Non-Veg",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Powder",
+      "Onions"
+    ],
+    "steps": [
+      "Sauté onions and spices.",
+      "Add chicken and brown.",
+      "Simmer with coconut milk."
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Berry Smoothie Bowl",
+    "image": "https://images.unsplash.com/photo-1553530979-7ee52a2670c4?auto=format&fit=crop&w=600&q=80",
+    "time": "10 min",
+    "calories": 280,
+    "protein": 5,
+    "carbs": 50,
+    "fats": 6,
+    "rating": 4.6,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Frozen Berries",
+      "Banana",
+      "Almond Milk",
+      "Granola"
+    ],
+    "steps": [
+      "Blend fruits and milk.",
+      "Pour into bowl.",
+      "Top with granola."
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Cheeseburger",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=600&q=80",
+    "time": "20 min",
+    "calories": 700,
+    "protein": 40,
+    "carbs": 45,
+    "fats": 40,
+    "rating": 4.9,
+    "dietType": "Non-Veg",
+    "ingredients": [
+      "Beef Patty",
+      "Bun",
+      "Cheese",
+      "Lettuce"
+    ],
+    "steps": [
+      "Grill patty.",
+      "Toast bun.",
+      "Assemble burger."
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Greek Salad",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=600&q=80",
+    "time": "15 min",
+    "calories": 300,
+    "protein": 10,
+    "carbs": 15,
+    "fats": 22,
+    "rating": 4.6,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Feta Cheese",
+      "Olives",
+      "Cucumber",
+      "Tomato"
+    ],
+    "steps": [
+      "Chop veggies.",
+      "Toss with olive oil and feta."
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Tofu Stir-Fry",
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=600&q=80",
+    "time": "25 min",
+    "calories": 380,
+    "protein": 20,
+    "carbs": 30,
+    "fats": 18,
+    "rating": 4.5,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Tofu",
+      "Broccoli",
+      "Soy Sauce",
+      "Ginger"
+    ],
+    "steps": [
+      "Press tofu.",
+      "Stir-fry veggies and tofu.",
+      "Add sauce."
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Shrimp Tacos",
+    "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=600&q=80",
+    "time": "25 min",
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fats": 18,
+    "rating": 4.7,
+    "dietType": "High-Protein",
+    "ingredients": [
+      "Shrimp",
+      "Tortillas",
+      "Cabbage",
+      "Lime"
+    ],
+    "steps": [
+      "Season and cook shrimp.",
+      "Warm tortillas.",
+      "Assemble tacos."
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Mushroom Risotto",
+    "image": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=600&q=80",
+    "time": "45 min",
+    "calories": 520,
+    "protein": 12,
+    "carbs": 65,
+    "fats": 20,
+    "rating": 4.8,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Arborio Rice",
+      "Mushrooms",
+      "Broth",
+      "Parmesan"
+    ],
+    "steps": [
+      "Sauté mushrooms.",
+      "Cook rice slowly with broth.",
+      "Stir in cheese."
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Egg Salad Sandwich",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=600&q=80",
+    "time": "15 min",
+    "calories": 350,
+    "protein": 18,
+    "carbs": 30,
+    "fats": 16,
+    "rating": 4.4,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Eggs",
+      "Mayo",
+      "Mustard",
+      "Bread"
+    ],
+    "steps": [
+      "Boil eggs.",
+      "Mash with mayo.",
+      "Make sandwich."
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Lentil Soup",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600&q=80",
+    "time": "35 min",
+    "calories": 300,
+    "protein": 18,
+    "carbs": 45,
+    "fats": 5,
+    "rating": 4.6,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Lentils",
+      "Carrots",
+      "Celery",
+      "Tomato Paste"
+    ],
+    "steps": [
+      "Cook veggies.",
+      "Add lentils and water.",
+      "Simmer until soft."
+    ]
+  },
+  {
+    "id": "17",
+    "name": "BBQ Ribs",
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=600&q=80",
+    "time": "90 min",
+    "calories": 800,
+    "protein": 50,
+    "carbs": 20,
+    "fats": 55,
+    "rating": 4.9,
+    "dietType": "Non-Veg",
+    "ingredients": [
+      "Pork Ribs",
+      "BBQ Sauce",
+      "Spices",
+      "Honey"
+    ],
+    "steps": [
+      "Rub spices on ribs.",
+      "Slow cook.",
+      "Glaze with BBQ sauce."
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Zucchini Noodles",
+    "image": "https://images.unsplash.com/photo-1611270629569-8b357cb88da9?auto=format&fit=crop&w=600&q=80",
+    "time": "15 min",
+    "calories": 150,
+    "protein": 4,
+    "carbs": 10,
+    "fats": 10,
+    "rating": 4.3,
+    "dietType": "Keto",
+    "ingredients": [
+      "Zucchini",
+      "Olive Oil",
+      "Garlic",
+      "Parmesan"
+    ],
+    "steps": [
+      "Spiralize zucchini.",
+      "Sauté quickly.",
+      "Top with cheese."
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Beef Burrito",
+    "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80",
+    "time": "20 min",
+    "calories": 650,
+    "protein": 30,
+    "carbs": 60,
+    "fats": 28,
+    "rating": 4.7,
+    "dietType": "Non-Veg",
+    "ingredients": [
+      "Ground Beef",
+      "Tortilla",
+      "Beans",
+      "Rice"
+    ],
+    "steps": [
+      "Cook beef.",
+      "Warm tortilla.",
+      "Roll ingredients."
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Caprese Salad",
+    "image": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?auto=format&fit=crop&w=600&q=80",
+    "time": "10 min",
+    "calories": 280,
+    "protein": 12,
+    "carbs": 6,
+    "fats": 22,
+    "rating": 4.8,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Mozzarella",
+      "Tomato",
+      "Basil",
+      "Balsamic Glaze"
+    ],
+    "steps": [
+      "Slice cheese and tomatoes.",
+      "Arrange with basil.",
+      "Drizzle glaze."
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Fish Tacos",
+    "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=600&q=80",
+    "time": "25 min",
+    "calories": 400,
+    "protein": 28,
+    "carbs": 35,
+    "fats": 14,
+    "rating": 4.6,
+    "dietType": "High-Protein",
+    "ingredients": [
+      "White Fish",
+      "Tortillas",
+      "Cabbage Slaw",
+      "Lime"
+    ],
+    "steps": [
+      "Grill fish.",
+      "Warm tortillas.",
+      "Top with slaw."
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Vegetable Stir-Fry",
+    "image": "https://images.unsplash.com/photo-1527515545081-5db817172677?auto=format&fit=crop&w=600&q=80",
+    "time": "20 min",
+    "calories": 300,
+    "protein": 8,
+    "carbs": 40,
+    "fats": 12,
+    "rating": 4.4,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Bell Peppers",
+      "Snap Peas",
+      "Carrots",
+      "Soy Sauce"
+    ],
+    "steps": [
+      "Chop veggies.",
+      "Stir-fry in hot oil.",
+      "Add soy sauce."
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Caesar Salad",
+    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?auto=format&fit=crop&w=600&q=80",
+    "time": "15 min",
+    "calories": 350,
+    "protein": 10,
+    "carbs": 15,
+    "fats": 28,
+    "rating": 4.5,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Romaine Lettuce",
+      "Croutons",
+      "Parmesan",
+      "Caesar Dressing"
+    ],
+    "steps": [
+      "Chop lettuce.",
+      "Toss with dressing.",
+      "Add croutons and cheese."
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Chia Pudding",
+    "image": "https://images.unsplash.com/photo-1494390248081-4e521a5940db?auto=format&fit=crop&w=600&q=80",
+    "time": "5 min",
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fats": 10,
+    "rating": 4.6,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Chia Seeds",
+      "Almond Milk",
+      "Honey",
+      "Berries"
+    ],
+    "steps": [
+      "Mix seeds and milk.",
+      "Refrigerate overnight.",
+      "Top with fruit."
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Beef Stew",
+    "image": "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&w=600&q=80",
+    "time": "120 min",
+    "calories": 500,
+    "protein": 40,
+    "carbs": 30,
+    "fats": 22,
+    "rating": 4.8,
+    "dietType": "Non-Veg",
+    "ingredients": [
+      "Beef Chuck",
+      "Potatoes",
+      "Carrots",
+      "Beef Broth"
+    ],
+    "steps": [
+      "Brown beef.",
+      "Add veggies and broth.",
+      "Simmer until tender."
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Quinoa Salad",
+    "image": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=600&q=80",
+    "time": "20 min",
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fats": 12,
+    "rating": 4.5,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Cooked Quinoa",
+      "Cucumber",
+      "Feta",
+      "Lemon Dressing"
+    ],
+    "steps": [
+      "Cook quinoa.",
+      "Chop veggies.",
+      "Mix all ingredients."
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Pancakes",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=600&q=80",
+    "time": "20 min",
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fats": 14,
+    "rating": 4.7,
+    "dietType": "Vegetarian",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Maple Syrup"
+    ],
+    "steps": [
+      "Mix batter.",
+      "Cook on griddle.",
+      "Serve with syrup."
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Sushi Roll",
+    "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=600&q=80",
+    "time": "45 min",
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fats": 8,
+    "rating": 4.8,
+    "dietType": "High-Protein",
+    "ingredients": [
+      "Sushi Rice",
+      "Nori Sheets",
+      "Fish or Veggies",
+      "Soy Sauce"
+    ],
+    "steps": [
+      "Cook rice.",
+      "Place fillings on nori.",
+      "Roll and slice."
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Hummus Plate",
+    "image": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?auto=format&fit=crop&w=600&q=80",
+    "time": "10 min",
+    "calories": 300,
+    "protein": 10,
+    "carbs": 25,
+    "fats": 18,
+    "rating": 4.6,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Hummus",
+      "Pita Bread",
+      "Olive Oil",
+      "Paprika"
+    ],
+    "steps": [
+      "Spread hummus.",
+      "Drizzle oil.",
+      "Serve with pita."
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Chicken Fajitas",
+    "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=600&q=80",
+    "time": "30 min",
+    "calories": 500,
+    "protein": 35,
+    "carbs": 35,
+    "fats": 20,
+    "rating": 4.7,
+    "dietType": "Non-Veg",
+    "ingredients": [
+      "Chicken Breast",
+      "Tortillas",
+      "Peppers",
+      "Onions"
+    ],
+    "steps": [
+      "Sauté chicken and veggies.",
+      "Warm tortillas.",
+      "Serve customized."
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Avocado Egg Boats",
+    "image": "https://images.unsplash.com/photo-1570533036814-2c6762c4c379?auto=format&fit=crop&w=600&q=80",
+    "time": "20 min",
+    "calories": 320,
+    "protein": 14,
+    "carbs": 8,
+    "fats": 28,
+    "rating": 4.7,
+    "dietType": "Keto",
+    "ingredients": [
+      "Avocado",
+      "Eggs",
+      "Bacon Bits",
+      "Chives"
+    ],
+    "steps": [
+      "Cut avocado in half.",
+      "Remove pit and scoop out some flesh.",
+      "Crack egg into hole.",
+      "Bake at 400°F for 15 mins."
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Cauliflower Mac & Cheese",
+    "image": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=600&q=80",
+    "time": "30 min",
+    "calories": 280,
+    "protein": 12,
+    "carbs": 15,
+    "fats": 22,
+    "rating": 4.5,
+    "dietType": "Keto",
+    "ingredients": [
+      "Cauliflower",
+      "Cheddar Cheese",
+      "Heavy Cream",
+      "Mustard"
+    ],
+    "steps": [
+      "Boil cauliflower.",
+      "Make cheese sauce.",
+      "Mix and bake."
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Lentil Spinach Soup",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600&q=80",
+    "time": "40 min",
+    "calories": 250,
+    "protein": 18,
+    "carbs": 35,
+    "fats": 5,
+    "rating": 4.8,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Lentils",
+      "Spinach",
+      "Carrots",
+      "Vegetable Broth"
+    ],
+    "steps": [
+      "Sauté veggies.",
+      "Add lentils and broth.",
+      "Simmer until soft.",
+      "Stir in spinach."
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Chickpea Curry",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+    "time": "30 min",
+    "calories": 380,
+    "protein": 15,
+    "carbs": 50,
+    "fats": 12,
+    "rating": 4.7,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Chickpeas",
+      "Coconut Milk",
+      "Curry Paste",
+      "Rice"
+    ],
+    "steps": [
+      "Sauté paste.",
+      "Add chickpeas and milk.",
+      "Simmer.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Grilled Turkey Breast",
+    "image": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?auto=format&fit=crop&w=600&q=80",
+    "time": "25 min",
+    "calories": 350,
+    "protein": 45,
+    "carbs": 0,
+    "fats": 10,
+    "rating": 4.6,
+    "dietType": "High-Protein",
+    "ingredients": [
+      "Turkey Breast",
+      "Olive Oil",
+      "Herbs",
+      "Lemon"
+    ],
+    "steps": [
+      "Marinate turkey.",
+      "Grill until cooked.",
+      "Rest and slice."
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Greek Yogurt Parfait",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=600&q=80",
+    "time": "5 min",
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fats": 5,
+    "rating": 4.9,
+    "dietType": "High-Protein",
+    "ingredients": [
+      "Greek Yogurt",
+      "Berries",
+      "Honey",
+      "Granola"
+    ],
+    "steps": [
+      "Layer yogurt and fruit.",
+      "Top with granola and honey."
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Zucchini Lasagna",
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=600&q=80",
+    "time": "50 min",
+    "calories": 320,
+    "protein": 25,
+    "carbs": 12,
+    "fats": 18,
+    "rating": 4.7,
+    "dietType": "Low-Carb",
+    "ingredients": [
+      "Zucchini Slices",
+      "Ground Beef",
+      "Ricotta",
+      "Marinara"
+    ],
+    "steps": [
+      "Brown beef.",
+      "Layer zucchini, cheese, and meat.",
+      "Bake until bubbly."
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Stuffed Bell Peppers",
+    "image": "https://images.unsplash.com/photo-1506459225024-1428097a7e18?auto=format&fit=crop&w=600&q=80",
+    "time": "45 min",
+    "calories": 400,
+    "protein": 22,
+    "carbs": 35,
+    "fats": 15,
+    "rating": 4.6,
+    "dietType": "Low-Carb",
+    "ingredients": [
+      "Bell Peppers",
+      "Ground Turkey",
+      "Cauliflower Rice",
+      "Tomato Sauce"
+    ],
+    "steps": [
+      "Hollow peppers.",
+      "Mix filling.",
+      "Stuff and bake."
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Chocolate Protein Smoothie",
+    "image": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=600&q=80",
+    "time": "5 min",
+    "calories": 300,
+    "protein": 25,
+    "carbs": 20,
+    "fats": 10,
+    "rating": 4.8,
+    "dietType": "High-Protein",
+    "ingredients": [
+      "Whey Protein",
+      "Almond Milk",
+      "Banana",
+      "Cocoa Powder"
+    ],
+    "steps": [
+      "Blend all ingredients.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Tofu Scramble",
+    "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=600&q=80",
+    "time": "15 min",
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fats": 14,
+    "rating": 4.5,
+    "dietType": "Vegan",
+    "ingredients": [
+      "Tofu",
+      "Turmeric",
+      "Spinach",
+      "Bell Peppers"
+    ],
+    "steps": [
+      "Mash tofu.",
+      "Sauté veggies.",
+      "Add tofu and spices.",
+      "Cook until warm."
+    ]
+  }
+]
