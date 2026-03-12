@@ -106,6 +106,8 @@ git clone https://github.com/NoorMustafa4556/Nutri-Track-Meal-Planner.git
 **2. Install dependencies:**
 ```bash
 cd meal_planner_app
+```
+```bash
 flutter pub get
 ```
 
