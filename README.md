@@ -7,7 +7,6 @@ Whether you are looking for a **Keto, Vegan, or High-Protein** diet, Nutri Track
 
 ---
 
-
 ## 🚀 Key Features
 - **Smart Recipe Discovery** – Explore a wide range of recipes with calories, macros, and ratings.
 - **AI-Powered Filtering** – Automatically filter meals based on your **Diet Type** (Keto, Vegan, etc.) and **Allergies** (Nuts, Dairy, etc.).
